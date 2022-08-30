@@ -1,0 +1,10 @@
+Voda
+100
+Grijanje
+300
+Gorivo
+500
+Struja
+250
+Smeće
+50
